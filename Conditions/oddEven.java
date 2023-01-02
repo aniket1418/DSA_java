@@ -1,3 +1,4 @@
+package Conditions;
 //Program to find the number even and odd
 
 import java.util.Scanner;
