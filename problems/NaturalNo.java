@@ -13,7 +13,7 @@ import java.util.Scanner;
  class NaturalNo{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-
+1
         System.out.println("Enter the number");
         int number = input.nextInt();
 
